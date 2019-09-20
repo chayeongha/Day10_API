@@ -40,7 +40,6 @@ public class test2 {
 		int [] num = {2,3,4,5,6,7,8,9,2,3,4,5};//곱해야할 수들 배열선언
 
 
-		int nudm =4;
 
 		//	for(index =2; index<10;index++) {//for(2)문 시작
 		//int a3=a2*index;
